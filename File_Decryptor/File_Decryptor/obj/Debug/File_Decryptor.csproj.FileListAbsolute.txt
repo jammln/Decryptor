@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\File_Decryptor\File_Decryptor\bin\Debug\File_Decryptor.exe
+C:\Users\admin\source\repos\File_Decryptor\File_Decryptor\bin\Debug\File_Decryptor.pdb
+C:\Users\admin\source\repos\File_Decryptor\File_Decryptor\obj\Debug\File_Decryptor.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\File_Decryptor\File_Decryptor\obj\Debug\File_Decryptor.exe
+C:\Users\admin\source\repos\File_Decryptor\File_Decryptor\obj\Debug\File_Decryptor.pdb
+C:\Users\admin\source\repos\File_Decryptor\File_Decryptor\obj\Debug\File_Decryptor.csproj.AssemblyReference.cache
